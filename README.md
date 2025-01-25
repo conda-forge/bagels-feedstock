@@ -11,14 +11,23 @@ Summary: Powerful expense tracker that lives in your terminal.
 
 Bagels expense tracker is a TUI application where you can track and analyse your money flow, with convenience oriented features and a complete interface.
 Some notable features include:
+
 - Accounts, (Sub)Categories, Splits, Transfers, Records
+
 - Templates for Recurring Transactions
+
 - Add Templated Record with Number Keys
+
 - Clear Table Layout with Togglable Splits
+
 - Transfer to and from Outside Tracked Accounts
+
 - "Jump Mode" Navigation
+
 - Less and Less Fields to Enter per Transaction, Powered by Transactions and Input Modes
+
 - Insights
+
 - Customizable Keybindings and Defaults, such as First Day of Week
 
 Current build status
