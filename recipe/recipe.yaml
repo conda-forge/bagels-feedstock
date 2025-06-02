@@ -64,7 +64,7 @@ requirements:
     - typing-extensions <5.0,>=4.0
     - uc-micro-py <2.0,>=1.0
     - werkzeug <4.0,>=3.0
-    - xdg-base-dirs <7.0,>=6.0
+    - xdg <7.0,>=6.0
     - yarl <2.0,>=1.0
 
 tests:
