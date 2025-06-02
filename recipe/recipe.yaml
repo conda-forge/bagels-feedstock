@@ -44,7 +44,7 @@ requirements:
     - markupsafe <4.0,>=3.0
     - mdit-py-plugins <1.0,>=0.4
     - mdurl <1.0,>=0.1
-    - msgpack <2.0,>=1.0
+    - msgpack-python <2.0,>=1.0
     - multidict <7.0,>=6.0
     - numpy <3.0,>=2.0
     - packaging <24.0,>=23.0
