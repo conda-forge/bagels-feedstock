@@ -1,6 +1,6 @@
 context:
   name: bagels
-  version: "0.3.10"
+  version: "0.3.11"
   python_min: "3.13"
 
 package:
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/${{ name }}-${{ version }}.tar.gz
-  sha256: 1e6b99515965e410d9ebb99988e054816501d5b267c762a5a6bb68223ce9d9e3
+  sha256: 98457622324e620f0dda9d4b8f9f8ed9e182a18d947949bbead711366343266f
   patches:
     - change-xdg-package-name.patch
 
