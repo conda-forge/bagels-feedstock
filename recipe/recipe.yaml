@@ -16,9 +16,10 @@ source:
 build:
   noarch: python
   script: python -m pip install . -vv
-  number: 0
+  number: 1
   python:
-    entry_points: bagels = bagels.__main__:cli
+    entry_points:
+      - bagels = bagels.__main__:cli
 
 requirements:
   host:
